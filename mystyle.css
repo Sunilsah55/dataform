@@ -1,0 +1,32 @@
+
+.main-container input{
+    align-items: center;
+    width:65%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.main-container{
+    align-items: center;
+    margin-left: 600px;
+    margin-right: 400px;
+
+}
+button{
+  background-color: #13aa52;
+  border: 1px solid #13aa52;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 10px 25px;
+  text-align: center;
+  margin-left: 150px;
+  margin-right: 450px;
+
+}
+
